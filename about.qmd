@@ -1,0 +1,45 @@
+---
+title: "About"
+---
+
+::: {.pronounce}
+Fatemeh is pronounced *FAH-teh-meh*. I have also published as Fatemeh Noorizadehsalout.
+:::
+
+## My story
+
+<!-- REPLACE: Tell your story in your own words. A few short paragraphs is perfect. -->
+
+I started in urban planning and transportation, but over time I became increasingly drawn to the quantitative side of research. Through my master’s studies and work at UIC’s Urban Transportation Center, I worked with real-world data across transportation, employment, accessibility, and policy projects. I realized that what I enjoyed most was turning messy questions into structured analyses and using data to understand what was really happening.
+
+That experience gradually changed the direction I wanted to take. I began taking more statistics and data mining courses and realized that I did not only want to know how to apply a method; I wanted to understand why it worked, what assumptions it relied on, and what to do when those assumptions did not hold. That is what led me to pursue a second master’s degree in Statistics.
+
+I now see my two backgrounds as complementary rather than separate. Urban planning taught me how complex and imperfect real-world problems can be, while statistics gave me a stronger framework for working with uncertainty, evidence, and quantitative models. Transportation was the application area where I first developed these skills, but the analytical thinking behind them is much broader and transferable across industries.
+
+Today, I bring a strong foundation in statistics, particularly regression, inference, model assumptions, and real-world data analysis. I am building on that foundation through advanced work in machine learning, probability, and computational methods, with an emphasis on rigorous modeling, careful interpretation, and practical problem solving.
+
+What I enjoy most is the full analytical process: understanding an open-ended problem, deciding what the data can actually tell us, choosing an appropriate method, and explaining what the result means. Going forward, I am interested in data science, statistical modeling, quantitative analysis, and applied research roles where statistics is a meaningful part of the work and analysis can contribute directly to real decisions.
+
+## Education
+
+::: {.timeline-item}
+**Master of Science in Statistics**, University of Illinois Chicago  
+[2025 – In Progress]{.when}
+
+:::
+
+::: {.timeline-item}
+**Master of Urban Planning and Policy — Urban Transportation**, University of Illinois Chicago  
+[2023 – 2025]{.when}
+
+:::
+
+::: {.timeline-item}
+**Bachelor of Urban Planning**, Azad University, Tehran North Branch  
+[2018 – 2022]{.when}
+:::
+
+## Outside of work
+
+<!-- REPLACE: Hobbies, interests, languages you speak — whatever you'd like people to know. -->
+Outside of work, I enjoy spending time with the people I’m close to, including my cat, who is usually part of the plan. I also enjoy cooking, getting into a good TV series, and staying active.

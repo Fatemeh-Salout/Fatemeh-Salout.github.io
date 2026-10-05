@@ -1,0 +1,34 @@
+---
+pagetitle: "Fatemeh N. Salout"
+page-layout: custom
+body-classes: home
+---
+
+::: {.hero}
+
+::: {.hero-photo}
+![](images/profile.jpg){fig-alt="Photo of Fatemeh Salout"}
+:::
+
+::: {.hero-text}
+<h1 class="hero-name">Fatemeh N. Salout</h1>
+
+<!-- REPLACE: your title and where you work or study -->
+[M.S. Student in Statistics | Data Science & Applied Research]{.hero-role}
+
+<!-- REPLACE: 2–4 sentences about you -->
+I’m a graduate student in Statistics at the University of Illinois Chicago with a background in urban planning, transportation, and policy research. 
+Over time, my work became increasingly quantitative, which led me to pursue deeper training in statistics and data science.
+My interests include applied statistics, data science, causal inference, predictive modeling, and quantitative research.
+
+::: {.hero-links}
+[hello@fatemeh-salout.com](mailto:hello@fatemeh-salout.com){.hero-email}
+
+[<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/fatemeh-n-salout-9780461a7/?isSelfProfile=true){aria-label="LinkedIn" title="LinkedIn"}
+[<i class="bi bi-github"></i>](https://github.com/Fatemeh-Salout){aria-label="GitHub" title="GitHub"}
+[<i class="bi bi-mortarboard"></i>](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Di-PDl0AAAAJ){aria-label="Google Scholar" title="Google Scholar"}
+[<i class="bi bi-file-earmark-text"></i>](files/Fatemeh_Salout_Resume.pdf){aria-label="Résumé" title="Résumé"}
+:::
+:::
+
+:::

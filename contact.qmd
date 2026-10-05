@@ -1,0 +1,26 @@
+---
+title: "Contact"
+body-classes: contact-page
+---
+
+::: {.contact}
+
+[Contact]{.contact-kicker}
+
+<h1 class="contact-headline">Let's connect.</h1>
+
+::: {.contact-intro}
+I'm always happy to connect about research collaborations, data and quantitative work, teaching, and new opportunities.
+:::
+
+[hello@fatemeh-salout.com](mailto:hello@fatemeh-salout.com){.contact-email}
+
+::: {.contact-icons}
+[[<i class="bi bi-linkedin"></i>]{.icon}[LinkedIn]{.label}](https://www.linkedin.com/in/fatemeh-n-salout-9780461a7/){.contact-icon}
+[[<i class="bi bi-github"></i>]{.icon}[GitHub]{.label}](https://github.com/Fatemeh-Salout){.contact-icon}
+[[<i class="bi bi-mortarboard"></i>]{.icon}[Scholar]{.label}](https://scholar.google.com/citations?user=Di-PDl0AAAAJ&hl=en){.contact-icon}
+[[<i class="bi bi-person-badge"></i>]{.icon}[ORCID]{.label}](https://orcid.org/0009-0009-8819-2759){.contact-icon}
+:::
+
+
+:::

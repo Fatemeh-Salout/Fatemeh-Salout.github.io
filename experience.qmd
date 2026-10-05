@@ -1,0 +1,69 @@
+---
+title: "Experience"
+---
+
+My experience spans applied research, quantitative analysis, teaching, and interdisciplinary collaboration. Across these roles, I have developed a strong ability to structure open-ended problems, work with complex real-world data, evaluate evidence, and communicate technical ideas clearly.
+
+::: {.timeline-item}
+### Teaching Assistant
+University of Illinois Chicago, Chicago  
+[Aug. 2026 – Present]{.when}
+
+**Calculus for Business**
+
+- Lead undergraduate discussion sections and guide students through mathematical reasoning and problem-solving.
+- Translate quantitative concepts into clear explanations for students with different technical backgrounds.
+- Facilitate discussions, provide feedback, and help students build confidence in applying mathematical ideas.
+- Adapt explanations and examples based on students’ understanding and common areas of difficulty.
+
+**Core strengths developed:** technical communication, facilitation, mentoring, audience awareness, and clear explanation of quantitative concepts.
+:::
+
+::: {.timeline-item}
+### Graduate Research Assistant
+Urban Transportation Center, University of Illinois Chicago  
+[Jan. 2023 – Aug. 2026]{.when}
+
+Worked across applied research projects involving transportation, employment, accessibility, remote work, and transportation technology.
+
+- Helped frame broad research and stakeholder questions into structured analytical problems with clear measures, assumptions, and methods.
+- Worked with employment-flow, demographic, survey, geospatial, and transportation datasets, including imperfect and multi-source real-world data.
+- Synthesized evidence from quantitative analysis, literature, stakeholder interviews, and technical sources to support research conclusions and recommendations.
+- Applied statistical, geospatial, survey, and qualitative methods depending on the research question.
+- Communicated findings, uncertainty, limitations, and recommendations to academic, government, and project stakeholders.
+- Collaborated across multidisciplinary teams to produce reports, presentations, analyses, and other project deliverables.
+
+**Core strengths developed:** problem framing, structured problem solving, data assessment, quantitative analysis, evidence synthesis, stakeholder communication, and collaborative research.
+:::
+
+::: {.timeline-item}
+### Researcher & Co-Author
+Urban Science  
+[2026]{.when}
+
+**Estimating the Impact of High-Frequency Public Transit on Employment Outcomes in Chicago Neighborhoods**
+
+- Built a tract-level panel dataset combining GTFS, ACS, and LEHD/LODES data.
+- Implemented fixed-effects difference-in-differences and event-study models.
+- Conducted bootstrap inference, placebo analyses, alternative specifications, and robustness checks.
+- Evaluated model assumptions and compared alternative analytical approaches.
+- Translated empirical findings into clear tables, visualizations, and research conclusions.
+
+**Core strengths demonstrated:** causal analysis, statistical modeling, data integration, model evaluation, robustness analysis, and research communication.
+:::
+
+## Skills
+
+**Statistics & Modeling:** Regression, statistical inference, hypothesis testing, bootstrap, fixed effects, difference-in-differences, event studies, model diagnostics, cross-validation
+
+**Machine Learning:** Ridge, Lasso, LDA/QDA, SVM, k-NN, k-Means, neural networks, model selection
+
+**Programming & Data:** Python, R, SQL, Excel
+
+**Research & Problem Solving:** Problem framing, structured problem solving, evidence synthesis, data assessment, causal analysis, research design
+
+**Communication & Collaboration:** Technical communication, stakeholder communication, public speaking, facilitation, mentoring, interdisciplinary teamwork
+
+**Applied Tools:** ArcGIS, Qualtrics, Decision Explorer, survey design, geospatial analysis
+
+**Languages:** Persian (native), English (fluent)

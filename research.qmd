@@ -1,0 +1,94 @@
+---
+title: "Research"
+---
+
+## Research interests
+
+My research interests center on applied statistics, causal inference, data-driven decision making, and the use of quantitative methods to understand complex real-world systems. I am especially interested in questions where the data are imperfect, the appropriate method is not obvious from the beginning, and careful attention to assumptions and interpretation matters.
+
+My previous research has focused primarily on transportation, employment accessibility, public policy, and organizational behavior, but the analytical questions behind that work, measurement, causal inference, accessibility, risk, and decision making under uncertainty, extend well beyond transportation.
+
+
+## Publication
+
+### Estimating the Impact of High-Frequency Public Transit on Employment Outcomes in Chicago Neighborhoods
+
+**Fatemeh Noorizadehsalout**, Amirhossein Vaziri  
+*Urban Science*, 2026, 10(4), 208
+
+This study examines whether improvements in high-frequency public transit are associated with changes in neighborhood employment outcomes in Chicago.
+
+My contribution focused on the quantitative analysis. I built a tract-level panel dataset integrating GTFS, ACS, and LEHD/LODES data and implemented fixed-effects difference-in-differences and event-study models, along with bootstrap inference, placebo analyses, alternative specifications, and robustness checks.
+
+[[Article](https://www.mdpi.com/2413-8851/10/4/208)]
+[[DOI](https://doi.org/10.3390/urbansci10040208)]
+
+## Selected research projects
+
+::: {.timeline-item}
+### Connecting People to Work
+
+**Urban Transportation Center, University of Illinois Chicago**
+
+A spatial data and accessibility study examining whether residents in Chicago's Southland could practically reach growing industrial and logistics employment centers.
+
+My work included collaborative analysis of LEHD worker origin-destination flows, transit-availability mapping, 0.5-mile accessibility buffers, CMAP sidewalk-inventory analysis, ArcGIS visualization, survey design, and interpretation. 
+
+**Methods & tools:** ArcGIS, LEHD, spatial analysis, accessibility measures, Qualtrics
+:::
+
+
+::: {.timeline-item}
+### Transit Connectivity
+
+**Urban Transportation Center, University of Illinois Chicago**
+
+A six-county study of access to healthcare, employment, food, education, and other Social Determinants of Health through rural demand-response transit.
+
+A key methodological challenge was that traditional fixed-route accessibility measures did not fit the four demand-response systems. I helped adapt the gap-analysis framework, worked with LEHD and SDOH spatial data in ArcGIS, supported stakeholder interviews, and contributed to synthesis and reporting. 
+
+**Methods & tools:** ArcGIS, LEHD, spatial analysis, research design, stakeholder interviews
+:::
+
+
+::: {.timeline-item}
+### Employer Perspectives on Working From Home
+
+**Urban Transportation Center, University of Illinois Chicago**
+
+A mixed-methods study examining how employers understand the effects of remote and hybrid work on productivity, collaboration, organizational culture, talent, costs, and commuting.
+
+I helped design the interview guide, participated in all seven interviews, reviewed transcripts, built SODA-informed cognitive maps in Decision Explorer, contributed to transcript-based reconciliation, and helped design and implement the employer survey in Qualtrics. 
+
+**Methods & tools:** Mixed methods, cognitive mapping, Decision Explorer, Qualtrics, structured qualitative analysis
+:::
+
+
+::: {.timeline-item}
+### North Lake Shore Drive Camera Safety Study
+
+**Urban Transportation Center, University of Illinois Chicago**
+
+A transportation-safety and technology study evaluating conventional and AI-enabled camera systems for Chicago’s DuSable Lake Shore Drive.
+
+My work focused on camera-system case studies, weather and field-performance constraints, technical implementation considerations, and published crash-reduction evidence used in a preliminary benefit-cost analysis.
+
+**Methods & tools:** Evidence synthesis, technology assessment, scenario analysis, benefit-cost reasoning, stakeholder communication
+:::
+
+
+## Research themes
+
+Across these projects, several themes have shaped how I approach research:
+
+- **Methodological fit:** choosing or adapting methods to match how the real-world system actually works.
+- **Multiple sources of evidence:** combining quantitative, spatial, qualitative, and stakeholder information rather than relying on a single source.
+- **Assumptions and limitations:** distinguishing what the data can support from what would be an overinterpretation.
+- **Decision relevance:** translating analysis into conclusions that are useful to researchers, practitioners, and decision-makers.
+
+
+## Selected awards
+
+- **Transport Chicago Student Work Competition Finalist**, 2026
+- **WTS Executive Partnership Scholarship**, 2024
+- **American Public Transportation Foundation Board Scholarship**, 2023 and 2024

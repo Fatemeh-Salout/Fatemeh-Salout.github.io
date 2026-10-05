@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+    - .nojekyll
+    - files/
+
+website:
+  title: "Fatemeh N. Salout"
+  site-url: https://fatemeh-salout.com
+  favicon: images/favicon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - experience.qmd
+      - research.qmd
+     # - projects/index.qmd
+      - href: resume.qmd
+        text: CV
+      - contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/Fatemeh-Salout
+        aria-label: GitHub
+  page-footer:
+    center: "© 2026 Fatemeh N. Salout"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme.scss
+    css: styles.css
+    toc: false

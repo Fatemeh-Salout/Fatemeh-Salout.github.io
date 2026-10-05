@@ -1,0 +1,17 @@
+---
+title: "CV"
+---
+
+You can view my CV below or download a PDF copy.
+
+[Download CV (PDF)](files/Fatemeh_Salout_CV.pdf){.btn .btn-primary}
+
+```{=html}
+<object
+  data="files/Fatemeh_Salout_CV.pdf"
+  type="application/pdf"
+  width="100%"
+  height="900"
+  style="border:1px solid #E3E7EC; border-radius:6px; margin-top:1.5rem;">
+  <p>Your browser cannot display the PDF here. Please use the download button above.</p>
+</object>

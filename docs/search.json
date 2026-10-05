@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I believe students learn best when [your belief]. In my classes, I [what you do]."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "",
+    "text": "I believe students learn best when [your belief]. In my classes, I [what you do]."
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\n[Course number]: [Course name]\n[Role, e.g. Instructor / Teaching Assistant], [University]\nSemesters, e.g. Fall 2025, Spring 2026\nA sentence about the course and your responsibilities.\n\n\n[Course number]: [Course name]\nTeaching Assistant, [University]\nSemester\nA sentence about the course."
+  },
+  {
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching",
+    "section": "Mentoring",
+    "text": "Mentoring\n\n[Students or programs you have mentored.]"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests center on applied statistics, causal inference, data-driven decision making, and the use of quantitative methods to understand complex real-world systems. I am especially interested in questions where the data are imperfect, the appropriate method is not obvious from the beginning, and careful attention to assumptions and interpretation matters.\nMy previous research has focused primarily on transportation, employment accessibility, public policy, and organizational behavior, but the analytical questions behind that work, measurement, causal inference, accessibility, risk, and decision making under uncertainty, extend well beyond transportation."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests center on applied statistics, causal inference, data-driven decision making, and the use of quantitative methods to understand complex real-world systems. I am especially interested in questions where the data are imperfect, the appropriate method is not obvious from the beginning, and careful attention to assumptions and interpretation matters.\nMy previous research has focused primarily on transportation, employment accessibility, public policy, and organizational behavior, but the analytical questions behind that work, measurement, causal inference, accessibility, risk, and decision making under uncertainty, extend well beyond transportation."
+  },
+  {
+    "objectID": "research.html#publication",
+    "href": "research.html#publication",
+    "title": "Research",
+    "section": "Publication",
+    "text": "Publication\n\nEstimating the Impact of High-Frequency Public Transit on Employment Outcomes in Chicago Neighborhoods\nFatemeh Noorizadehsalout, Amirhossein Vaziri\nUrban Science, 2026, 10(4), 208\nThis study examines whether improvements in high-frequency public transit are associated with changes in neighborhood employment outcomes in Chicago.\nMy contribution focused on the quantitative analysis. I built a tract-level panel dataset integrating GTFS, ACS, and LEHD/LODES data and implemented fixed-effects difference-in-differences and event-study models, along with bootstrap inference, placebo analyses, alternative specifications, and robustness checks.\n[Article] [DOI]"
+  },
+  {
+    "objectID": "research.html#selected-research-projects",
+    "href": "research.html#selected-research-projects",
+    "title": "Research",
+    "section": "Selected research projects",
+    "text": "Selected research projects\n\nConnecting People to Work\nUrban Transportation Center, University of Illinois Chicago\nA spatial data and accessibility study examining whether residents in Chicago’s Southland could practically reach growing industrial and logistics employment centers.\nMy work included collaborative analysis of LEHD worker origin-destination flows, transit-availability mapping, 0.5-mile accessibility buffers, CMAP sidewalk-inventory analysis, ArcGIS visualization, survey design, and interpretation.\nMethods & tools: ArcGIS, LEHD, spatial analysis, accessibility measures, Qualtrics\n\n\nTransit Connectivity\nUrban Transportation Center, University of Illinois Chicago\nA six-county study of access to healthcare, employment, food, education, and other Social Determinants of Health through rural demand-response transit.\nA key methodological challenge was that traditional fixed-route accessibility measures did not fit the four demand-response systems. I helped adapt the gap-analysis framework, worked with LEHD and SDOH spatial data in ArcGIS, supported stakeholder interviews, and contributed to synthesis and reporting.\nMethods & tools: ArcGIS, LEHD, spatial analysis, research design, stakeholder interviews\n\n\nEmployer Perspectives on Working From Home\nUrban Transportation Center, University of Illinois Chicago\nA mixed-methods study examining how employers understand the effects of remote and hybrid work on productivity, collaboration, organizational culture, talent, costs, and commuting.\nI helped design the interview guide, participated in all seven interviews, reviewed transcripts, built SODA-informed cognitive maps in Decision Explorer, contributed to transcript-based reconciliation, and helped design and implement the employer survey in Qualtrics.\nMethods & tools: Mixed methods, cognitive mapping, Decision Explorer, Qualtrics, structured qualitative analysis\n\n\nNorth Lake Shore Drive Camera Safety Study\nUrban Transportation Center, University of Illinois Chicago\nA transportation-safety and technology study evaluating conventional and AI-enabled camera systems for Chicago’s DuSable Lake Shore Drive.\nMy work focused on camera-system case studies, weather and field-performance constraints, technical implementation considerations, and published crash-reduction evidence used in a preliminary benefit-cost analysis.\nMethods & tools: Evidence synthesis, technology assessment, scenario analysis, benefit-cost reasoning, stakeholder communication"
+  },
+  {
+    "objectID": "research.html#research-themes",
+    "href": "research.html#research-themes",
+    "title": "Research",
+    "section": "Research themes",
+    "text": "Research themes\nAcross these projects, several themes have shaped how I approach research:\n\nMethodological fit: choosing or adapting methods to match how the real-world system actually works.\nMultiple sources of evidence: combining quantitative, spatial, qualitative, and stakeholder information rather than relying on a single source.\nAssumptions and limitations: distinguishing what the data can support from what would be an overinterpretation.\nDecision relevance: translating analysis into conclusions that are useful to researchers, practitioners, and decision-makers."
+  },
+  {
+    "objectID": "research.html#selected-awards",
+    "href": "research.html#selected-awards",
+    "title": "Research",
+    "section": "Selected awards",
+    "text": "Selected awards\n\nTransport Chicago Student Work Competition Finalist, 2026\nWTS Executive Partnership Scholarship, 2024\nAmerican Public Transportation Foundation Board Scholarship, 2023 and 2024"
+  },
+  {
+    "objectID": "projects/example-project-2/index.html",
+    "href": "projects/example-project-2/index.html",
+    "title": "Example project two",
+    "section": "",
+    "text": "A short description of the project."
+  },
+  {
+    "objectID": "projects/example-project-2/index.html#overview",
+    "href": "projects/example-project-2/index.html#overview",
+    "title": "Example project two",
+    "section": "",
+    "text": "A short description of the project."
+  },
+  {
+    "objectID": "projects/example-project-2/index.html#my-role",
+    "href": "projects/example-project-2/index.html#my-role",
+    "title": "Example project two",
+    "section": "My role",
+    "text": "My role\nWhat you contributed."
+  },
+  {
+    "objectID": "projects/example-project-2/index.html#outcome",
+    "href": "projects/example-project-2/index.html#outcome",
+    "title": "Example project two",
+    "section": "Outcome",
+    "text": "Outcome\nWhat happened as a result."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\n\nLet’s connect.\n\n\nI’m always happy to connect about research collaborations, data and quantitative work, teaching, and new opportunities.\n\nhello@fatemeh-salout.com\n\nLinkedIn GitHub Scholar ORCID"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Fatemeh is pronounced FAH-teh-meh. I have also published as Fatemeh Noorizadehsalout."
+  },
+  {
+    "objectID": "about.html#my-story",
+    "href": "about.html#my-story",
+    "title": "About",
+    "section": "My story",
+    "text": "My story\n\nI started in urban planning and transportation, but over time I became increasingly drawn to the quantitative side of research. Through my master’s studies and work at UIC’s Urban Transportation Center, I worked with real-world data across transportation, employment, accessibility, and policy projects. I realized that what I enjoyed most was turning messy questions into structured analyses and using data to understand what was really happening.\nThat experience gradually changed the direction I wanted to take. I began taking more statistics and data mining courses and realized that I did not only want to know how to apply a method; I wanted to understand why it worked, what assumptions it relied on, and what to do when those assumptions did not hold. That is what led me to pursue a second master’s degree in Statistics.\nI now see my two backgrounds as complementary rather than separate. Urban planning taught me how complex and imperfect real-world problems can be, while statistics gave me a stronger framework for working with uncertainty, evidence, and quantitative models. Transportation was the application area where I first developed these skills, but the analytical thinking behind them is much broader and transferable across industries.\nToday, I bring a strong foundation in statistics, particularly regression, inference, model assumptions, and real-world data analysis. I am building on that foundation through advanced work in machine learning, probability, and computational methods, with an emphasis on rigorous modeling, careful interpretation, and practical problem solving.\nWhat I enjoy most is the full analytical process: understanding an open-ended problem, deciding what the data can actually tell us, choosing an appropriate method, and explaining what the result means. Going forward, I am interested in data science, statistical modeling, quantitative analysis, and applied research roles where statistics is a meaningful part of the work and analysis can contribute directly to real decisions."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nMaster of Science in Statistics, University of Illinois Chicago\n2025 – In Progress\n\n\nMaster of Urban Planning and Policy — Urban Transportation, University of Illinois Chicago\n2023 – 2025\n\n\nBachelor of Urban Planning, Azad University, Tehran North Branch\n2018 – 2022"
+  },
+  {
+    "objectID": "about.html#outside-of-work",
+    "href": "about.html#outside-of-work",
+    "title": "About",
+    "section": "Outside of work",
+    "text": "Outside of work\n\nOutside of work, I enjoy spending time with the people I’m close to, including my cat, who is usually part of the plan. I also enjoy cooking, getting into a good TV series, and staying active."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "My experience spans applied research, quantitative analysis, teaching, and interdisciplinary collaboration. Across these roles, I have developed a strong ability to structure open-ended problems, work with complex real-world data, evaluate evidence, and communicate technical ideas clearly."
+  },
+  {
+    "objectID": "experience.html#skills",
+    "href": "experience.html#skills",
+    "title": "Experience",
+    "section": "Skills",
+    "text": "Skills\nStatistics & Modeling: Regression, statistical inference, hypothesis testing, bootstrap, fixed effects, difference-in-differences, event studies, model diagnostics, cross-validation\nMachine Learning: Ridge, Lasso, LDA/QDA, SVM, k-NN, k-Means, neural networks, model selection\nProgramming & Data: Python, R, SQL, Excel\nResearch & Problem Solving: Problem framing, structured problem solving, evidence synthesis, data assessment, causal analysis, research design\nCommunication & Collaboration: Technical communication, stakeholder communication, public speaking, facilitation, mentoring, interdisciplinary teamwork\nApplied Tools: ArcGIS, Qualtrics, Decision Explorer, survey design, geospatial analysis\nLanguages: Persian (native), English (fluent)"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html",
+    "href": "projects/example-project-1/index.html",
+    "title": "Example project one",
+    "section": "",
+    "text": "What question or problem did this project tackle, and why does it matter?"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#the-problem",
+    "href": "projects/example-project-1/index.html#the-problem",
+    "title": "Example project one",
+    "section": "",
+    "text": "What question or problem did this project tackle, and why does it matter?"
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#what-i-did",
+    "href": "projects/example-project-1/index.html#what-i-did",
+    "title": "Example project one",
+    "section": "What I did",
+    "text": "What I did\nDescribe your approach, tools, and your own role if it was a team project."
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#results",
+    "href": "projects/example-project-1/index.html#results",
+    "title": "Example project one",
+    "section": "Results",
+    "text": "Results\nWhat came out of it: findings, a product, a paper, a talk."
+  },
+  {
+    "objectID": "projects/example-project-1/index.html#links",
+    "href": "projects/example-project-1/index.html#links",
+    "title": "Example project one",
+    "section": "Links",
+    "text": "Links\n\nPaper or report\nCode on GitHub"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of things I’ve worked on. Click a project to read more.\n\n\n\n\n\n\n\n\n\n\n\nExample project one\n\n\n\nresearch\n\ndata analysis\n\n\n\nOne sentence about what this project does or found.\n\n\n\nMay 1, 2026\n\n\n\n\n\n\n\n\n\n\nExample project two\n\n\n\nteaching\n\nsoftware\n\n\n\nOne sentence about what this project does or found.\n\n\n\nSep 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can view my CV below or download a PDF copy.\nDownload CV (PDF)\n\n\nYour browser cannot display the PDF here. Please use the download button above."
+  }
+]
